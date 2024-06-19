@@ -3,7 +3,7 @@
 <p>Este repositório contém um projeto de um sistema de gerenciamento de contas bancárias desenvolvido em Java. O objetivo principal deste projeto foi aprimorar minhas habilidades em Programação Orientada a Objetos (POO) e operações de CRUD (Create, Read, Update, Delete).</p>
 
 <h2>Sobre o projeto</h2>
-<p>O sistema de gerenciamento de contas bancárias permite a criação, consulta, atualização e exclusão de contas bancárias. Foi desenvolvido como parte do meu estudo no programa de bootcamp da Generation, onde busquei aplicar os conceitos aprendidos de maneira prática e eficiente. O menu foi desenvolvido de modo colorido e iterativo.</p>
+<p>O sistema de gerenciamento de contas bancárias permite a criação, consulta, atualização e exclusão de contas bancárias. Foi desenvolvido como parte do meu estudo no programa de bootcamp da Generation, onde busquei aplicar os conceitos aprendidos de maneira prática e eficiente. O menu foi desenvolvido de modo colorido e interativo.</p><br>
 <div align="center">
   <img src="https://github.com/eduardowada/contabancaria/assets/156962925/05937840-cf09-46a5-9a40-00a7437125aa" width="400px">
 </div>
